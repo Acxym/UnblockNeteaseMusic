@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 8080 8081 443 80 8000 8001
 
-ENTRYPOINT ["node", "app.js", "-v", $POST]
+ENTRYPOINT ["node", "app.js", "-v"]
