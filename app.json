@@ -2,12 +2,6 @@
     "name": "UnblockNeteaseMusic",
     "description": "Deploy UnblockNeteaseMusic on Heroku.",
     "keywords": ["UnblockNeteaseMusic"],
-    "env": {
-        "P": {
-            "description": "Port",
-            "value": "8000"
-        }
-    },
     "website": "https://xxx.xxx.xxx",
     "repository": "https://github.com/Acxym/UnblockNeteaseMusic-heroku",
     "stack": "container"
