@@ -1,8 +1,0 @@
-{
-    "name": "UnblockNeteaseMusic",
-    "description": "Deploy UnblockNeteaseMusic on Heroku.",
-    "keywords": ["UnblockNeteaseMusic"],
-    "website": "https://xxx.xxx.xxx",
-    "repository": "https://github.com/Acxym/UnblockNeteaseMusic-heroku",
-    "stack": "container"
-}
